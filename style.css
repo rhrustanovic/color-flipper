@@ -1,0 +1,62 @@
+
+
+nav {
+   box-sizing: border-box;
+    height: 30px;
+    margin-top: 0;
+    box-shadow: 0px 3px rgb(243, 242, 242);
+    opacity: 0.6;
+    background-color: white;
+    width: auto;
+    text-align: center;
+    justify-content: center;
+    
+    
+
+  }
+
+  h4 {
+      float: left;
+      padding-left: 150px;
+  }
+
+  .nav-links {
+      float: left;
+      list-style-type: none;
+      float: right;
+      display: inline-block;
+      padding-right: 150px;
+  }
+
+  a {
+    text-decoration: none;
+    padding-left: 20px;
+  }
+
+  li a:hover {
+      color: rgb(39, 78, 252);
+  }
+
+  .container {
+    text-align: center;
+    margin-top: 10%;
+      
+  }
+  
+  h2 {
+      padding: 10px 5px;
+      box-sizing: border-box;
+      margin-top: 80px;
+      margin-bottom: 20px;
+      background-color: rgb(0, 0, 0);
+      color: white;
+      width: 40%;
+      margin-left: 30%;
+      height: 30%;
+
+
+  }
+  
+  .color {
+      color: rgb(123, 174, 250);
+  }
